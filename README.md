@@ -22,7 +22,7 @@ Released in 1972, C became widely adopted due to its balance of low-level memory
 The language was standardized in 1989 by ANSI (as ANSI C, also known as C89) and later by ISO in 1990. Subsequent updates (like C99, C11, and C18) introduced new features while maintaining backward compatibility, making C one of the most enduring and influential programming languages in computer science history.
 </p>
 
-<h1 style="color:greenyellow">First Program in C</h1>
+<h2 style="color:greenyellow">First Program in C</h2>
 
 ```C
 #include <stdio.h>
@@ -38,3 +38,24 @@ int main(void) {
 Hello, World!
 ```
 
+### Explanation
+
+```C
+#include <stdio.h>
+```
+- This is a preprocessor directive that includes the standard input-output library, which provides the printf function.
+
+```C
+int main(void)
+```
+- This is the main function, the entry point of every C program. void means it doesn't take any parameters.
+
+```C
+printf("Hello, World!");
+```
+- This line calls the printf function to display the text Hello, World! on the console.
+
+```C
+return 0;
+```
+- This returns 0 to the operating system, indicating that the program completed successfully.
