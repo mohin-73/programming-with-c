@@ -58,4 +58,30 @@ printf("Hello, World!");
 ```C
 return 0;
 ```
-- This returns 0 to the operating system, indicating that the program completed successfully.
+- This returns 0 to the operating system, indicating that the program executed successfully.
+
+<h2 style="color:orange">Application of C </h2>
+
+<p style="font-size:17px">
+C programming is widely used in system-level programming due to its efficiency, speed, and low-level memory access. It is commonly used for developing operating systems (like UNIX and Linux), embedded systems, device drivers, and compilers. C is also used in game development, database systems, and real-time systems. Its portability and structured programming features make it a preferred choice for developing firmware and applications that require high performance and close hardware interaction.
+</p>
+
+- <p style="font-size:16px">Operating Systems – Used in the development of systems like UNIX, Linux, and Windows.</p>
+
+- <p style="font-size:16px">Embedded Systems – Common in programming microcontrollers and embedded devices.</p>
+
+- <p style="font-size:16px">Device Drivers – Writing drivers to control hardware devices.</p>
+
+- <p style="font-size:16px">Compilers – Many compilers (e.g., GCC) are written in C.</p>
+
+- <p style="font-size:16px">Game Development – Used for high-performance game engines.</p>
+
+- <p style="font-size:16px">Database Systems – Core parts of systems like MySQL are written in C.</p>
+
+- <p style="font-size:16px">Real-Time Systems – Ideal for time-sensitive applications.</p>
+
+- <p style="font-size:16px">System Programming – For low-level tasks like memory and process management.</p>
+
+- <p style="font-size:16px">Network Programming – Building socket-level network applications.</p>
+
+- <p style="font-size:16px">IoT Applications – Used for lightweight IoT firmware and control systems.</p>
