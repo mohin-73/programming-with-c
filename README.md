@@ -157,7 +157,7 @@ This allows the compiler to reserve memory for it and understand how it should b
 <h2 style="color:gold">Rules for Naming Variables in C</h2>
 
 
-<div style="font-size: 14px;">
+<div style="font-size: 12px;">
 
 | Rule                                      | Example         | Valid? | Explanation                                             |
 |-------------------------------------------|------------------|--------|---------------------------------------------------------|
