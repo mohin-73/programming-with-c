@@ -165,8 +165,8 @@ This allows the compiler to reserve memory for it and understand how it should b
 | Starts with a digit                       | `int 1value;`    | ❌     | Variable names cannot start with a number               |
 | Contains letters, digits, and underscores | `int value_2;`   | ✅     | Letters, digits, and underscores are allowed            |
 | Contains special character                | `int name@;`     | ❌     | Special characters like `@`, `$`, `#` are not allowed   |
-| Uses a reserved keyword                   | `int return;`    | ❌     | `return` is a C keyword and cannot be used as a name    |
-| Case-sensitive names                      | `int number;` `int Number;`| ✅     | `number` and `Number` are two different variables           |
+| Uses a reserved keyword                   | `int return;`    | ❌     | return is a C keyword and cannot be used as a name    |
+| Case-sensitive names                      | `int number;` `int Number;`| ✅     | number and Number are two different variables           |
 | Uses descriptive name                     | `int myAge;`| ✅     | Best practice for readable and maintainable code        |
 
 </div>
