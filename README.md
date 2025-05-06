@@ -157,7 +157,7 @@ This allows the compiler to reserve memory for it and understand how it should b
 <h2 style="color:gold">Rules for Naming Variables in C</h2>
 
 
-<div style="font-size: 16px;">
+<div style="font-size: 14px;">
 
 | Rule                                      | Example         | Valid? | Explanation                                             |
 |-------------------------------------------|------------------|--------|---------------------------------------------------------|
@@ -170,4 +170,3 @@ This allows the compiler to reserve memory for it and understand how it should b
 | Uses descriptive name                     | `int studentAge;`| ✅     | Best practice for readable and maintainable code        |
 
 </div>
-
