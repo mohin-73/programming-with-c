@@ -119,9 +119,9 @@ In C programming, variables are named storage locations in memory that hold data
 #include <stdio.h>
 
 int main(void) {
-    int a; // Variable declaration
-    a = 7; // Variable Initialization
-    printf("%d\n", a); // Print the value of 'a'
+    int a; // Declaration
+    a = 7; // Initialization
+    printf("%d\n", a); // Print stored data/value
     return 0;
 }
 ```
@@ -157,7 +157,7 @@ This allows the compiler to reserve memory for it and understand how it should b
 <h2 style="color:gold">Rules for Naming Variables in C</h2>
 
 
-<div style="font-size: 12px;">
+<div style="font-size: 10px;">
 
 | Rule                                      | Example         | Valid? | Explanation                                             |
 |-------------------------------------------|------------------|--------|---------------------------------------------------------|
